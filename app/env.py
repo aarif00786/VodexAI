@@ -1,0 +1,1 @@
+MONGO_URL = "mongodb+srv://kauveryhms:kauveryhms123@cluster0.r8jfsm1.mongodb.net/admin?retryWrites=true&replicaSet=atlas-3jb59i-shard-0&readPreference=primary&srvServiceName=mongodb&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1"
