@@ -1,8 +1,6 @@
 from fastapi import HTTPException,APIRouter, Query
 from bson import ObjectId
-from typing import List
 from app.models.models import Item 
-from app.utils.utils import document_to_dict
 from app.config.collections import item_collection
 from fastapi.responses import JSONResponse
 from datetime import datetime
